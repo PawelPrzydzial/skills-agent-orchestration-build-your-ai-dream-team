@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Docs Refresh",
+      "owner": "Maya Chen",
+      "status": "In progress",
+      "recentActivity": "Navigation draft opened for contributor review",
+      "priority": "High",
+      "summary": "Simplifying the getting-started path and making contribution guides easier to scan."
+    },
+    {
+      "name": "Accessibility Audit",
+      "owner": "Jon Bell",
+      "status": "Needs review",
+      "recentActivity": "Keyboard and screen-reader findings grouped into 12 follow-up tasks",
+      "priority": "Critical",
+      "summary": "Closing the most important interaction and contrast gaps before the next release."
+    },
+    {
+      "name": "API Explorer",
+      "owner": "Priya Nair",
+      "status": "In progress",
+      "recentActivity": "Endpoint search prototype shared with the platform team",
+      "priority": "Medium",
+      "summary": "Helping contributors discover examples and understand API behavior without leaving the project."
+    },
+    {
+      "name": "Community Onboarding",
+      "owner": "Luis Romero",
+      "status": "Planning",
+      "recentActivity": "First-time contributor interview notes synthesized",
+      "priority": "High",
+      "summary": "Turning recurring questions from new contributors into a friendly, repeatable welcome path."
+    },
+    {
+      "name": "Release Readiness",
+      "owner": "Avery Brooks",
+      "status": "On track",
+      "recentActivity": "Smoke-test checklist is 80% complete",
+      "priority": "Low",
+      "summary": "Coordinating final checks, release notes, and ownership for the next stable release."
+    },
+    {
+      "name": "Search Performance",
+      "owner": "Nadia Patel",
+      "status": "At risk",
+      "recentActivity": "Latency regression isolated to the indexing queue",
+      "priority": "Critical",
+      "summary": "Reducing query wait time while protecting result quality as the project catalog grows."
+    }
+  ]
+}
